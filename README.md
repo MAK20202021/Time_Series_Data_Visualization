@@ -2,7 +2,10 @@
 
 
 This exercise is a good sourse of better understanding on TimeSeries.
-The main objective of the analysis is to focus on the TimeSeries.
+The main objective of the analysis is to focus on the followings:
+- Understand time series applications for NumPy and Pandas
+- Summarize a dataframe with a datetime index
+- Generate simple time series plots
 
 ## Acknowledgement
 This example is from [Specialized Models: Time Series and Survival Analysis](https://www.coursera.org/learn/time-series-survival-analysis).
