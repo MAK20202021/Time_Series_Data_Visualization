@@ -11,7 +11,7 @@ The main objective of the analysis is to focus on the followings:
 This example is from [Specialized Models: Time Series and Survival Analysis](https://www.coursera.org/learn/time-series-survival-analysis).
 Thanks to Coursera and IBM for arranging this project to strengthen our knowledge. 
 ## Installation
-This example needs Anaconda package(Anaconda3), Jupyter Notebook (6.1.4). This project template is taken from Coursera IBM Skills Network labs.
+This example needs Anaconda package(Anaconda3), Jupyter Notebook (6.1.4). 
 
 ## File Description
 The source codes are as follows:
